@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "870613594753",
+    "project_id": "mrula-f03b9",
+    "storage_bucket": "mrula-f03b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870613594753:android:4237fdf62d5fa10b05d380",
+        "android_client_info": {
+          "package_name": "com.superproject.mrulamobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870613594753-f79h5ra5oc2iatqg06b39gf79fg9i4i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP668URWNsbTItxwTvTJaCZ4xoh7sOJvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870613594753-f79h5ra5oc2iatqg06b39gf79fg9i4i6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
